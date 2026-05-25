@@ -1,42 +1,54 @@
 # Praveen Kumar Bommali
 
-Founder building MedhaLink AI, with a hands-on focus on GenAI products, retrieval-augmented generation, backend platforms, and cloud-ready systems.
+AI Architect and Founder building MedhaLink AI.
 
-I work across the full product stack: Python/FastAPI services, Java/Spring Boot systems, TypeScript/React interfaces, PostgreSQL, Redis, vector search, Docker, Kubernetes, and production API integrations.
+I design and ship production AI systems across RAG, enterprise knowledge search, agentic workflow orchestration, connector ingestion, backend platforms, and cloud delivery. My bias is architecture that survives real users: source-grounded answers, permissions-aware retrieval, reviewable actions, observable pipelines, and services that stay simple enough to run.
 
-## What I am building
+## AI architecture focus
 
-**MedhaLink AI** is my current founder work: an enterprise knowledge AI platform for governed search, source-grounded answers, connector ingestion, reviewable AI actions, and workflow automation.
+- RAG systems with source routing, chunking strategy, metadata design, retrieval ranking, citations, and evaluation loops
+- Agent and workflow orchestration for governed actions, draft generation, task handoff, scheduling, skip rules, and audit history
+- Enterprise connectors across email, documents, collaboration tools, and structured knowledge sources
+- Backend platforms with FastAPI, Spring Boot, PostgreSQL, Redis, Celery, Qdrant, REST APIs, async workers, and clean service boundaries
+- Cloud delivery with Docker, Kubernetes, Helm, GCP, Azure, GitHub Actions, health checks, metrics, logs, and rollout discipline
 
-The problems I care most about:
+## Building now: MedhaLink AI
 
-- Making enterprise knowledge searchable across documents, email, and collaboration tools
-- Building RAG systems that preserve source context and user trust
-- Turning one-off AI answers into governed, auditable product workflows
-- Designing backend systems that are simple enough to run and strong enough to scale
+**MedhaLink AI** is my founder work: an enterprise AI platform for governed knowledge search and AI-assisted work. The product connects company knowledge, retrieves evidence from the right sources, generates grounded answers, and turns repeatable tasks into controlled workflows.
 
-## Selected work
+Architecture priorities I care about:
 
-- [Brand Asset Studio](https://github.com/praveenbommalibits/brand-studio-suite) - TypeScript interface for AI-assisted brand asset planning, approval, review, and packaging.
-- [Brand Asset Studio API](https://github.com/praveenbommalibits/brand-studio-suite-ba) - FastAPI backend with brief parsing, tool routing, asset generation orchestration, QA, and packaging.
-- [Medha MoM](https://github.com/praveenbommalibits/medha-mom) - Privacy-first local meeting assistant with local transcription, speaker identification, context-aware suggestions, and structured notes.
-- [MedhaWhisper](https://github.com/praveenbommalibits/medha-whisper) - Local macOS voice-to-text utility built around Whisper with hotkey capture and auto-typing.
-- [LLM Connector Service](https://github.com/praveenbommalibits/llm-connector) - Java 21 Spring Boot service for LLM query handling and RAG-style SAP field context retrieval.
-- [String Reply Service](https://github.com/praveenbommalibits/rest-service) - Spring Boot API exercise focused on backward-compatible endpoints, rule execution, validation, and testability.
+- Retrieval that respects explicit source intent without excluding useful evidence when the user asks broadly
+- Email and document ingestion that separates useful knowledge from noisy, automated, or unsafe content
+- Drafting and sending flows with human review, visible state, and provider-level traceability
+- Workflow runs that make scheduling, outputs, skip decisions, provider draft creation, and delivery state auditable
+- API services kept lean while workers handle ingestion, embeddings, vector writes, and heavier processing
 
-## Core stack
+## Selected systems
 
-**AI and data:** RAG, embeddings, vector search, LLM APIs, document ingestion, prompt orchestration, evaluation-minded product design  
-**Backend:** Python, FastAPI, Java, Spring Boot, SQLAlchemy, PostgreSQL, Redis, Celery, REST APIs  
-**Frontend:** TypeScript, React, Vite, TanStack, Tailwind CSS  
-**Cloud and delivery:** Docker, Kubernetes, Helm, GitHub Actions, GCP, Azure, observability, deployment automation  
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Brand Asset Studio API](https://github.com/praveenbommalibits/brand-studio-suite-ba) | AI workflow backend for brief parsing, tool routing, generation orchestration, QA, and package delivery | Python, FastAPI |
+| [Brand Asset Studio](https://github.com/praveenbommalibits/brand-studio-suite) | Product UI for AI-assisted brand planning, approvals, generation review, and downloadable outputs | TypeScript, React |
+| [LLM Connector Service](https://github.com/praveenbommalibits/llm-connector) | Java service for LLM query handling with RAG-style SAP field context retrieval | Java 21, Spring Boot |
+| [Medha MoM](https://github.com/praveenbommalibits/medha-mom) | Local meeting intelligence with transcription, speaker identification, context-aware suggestions, and structured notes | Python, Whisper |
+| [MedhaWhisper](https://github.com/praveenbommalibits/medha-whisper) | Local macOS voice-to-text utility with hotkey capture, Whisper transcription, and auto-typing | Python, macOS |
+| [String Reply Service](https://github.com/praveenbommalibits/rest-service) | API engineering fundamentals: compatibility, validation, rule execution, and testability | Java, Spring Boot |
+
+## Technical depth
+
+**AI and retrieval:** RAG, embeddings, vector search, source attribution, retrieval planning, prompt orchestration, document ingestion, LLM APIs, evaluation-minded product design  
+**Backend architecture:** Python, FastAPI, Pydantic, SQLAlchemy, Java, Spring Boot, PostgreSQL, Redis, Celery, REST APIs, background jobs, service contracts  
+**Cloud and operations:** Docker, Kubernetes, Helm, GitHub Actions, GCP, Azure, environment-based config, health checks, metrics, logs, deployment automation  
+**Product engineering:** OAuth integrations, connector sync, permissions, auditability, review controls, workflow state, human-in-the-loop AI actions  
+**Frontend when needed:** TypeScript, React, Vite, TanStack, Tailwind CSS
 
 ## Current focus
 
-- Shipping MedhaLink AI as a founder-led enterprise AI product
-- Building reliable connector ingestion and governed AI workflow experiences
-- Improving RAG quality, source attribution, review controls, and auditability
-- Turning prototype-grade AI ideas into usable product systems
+- Architecting MedhaLink AI into a production-ready enterprise AI platform
+- Improving RAG quality, source attribution, connector ingestion, and reviewable AI actions
+- Designing AI workflows where automation remains visible, reversible, and auditable
+- Strengthening backend reliability, cloud deployment, observability, and operational discipline
 
 ## Links
 
