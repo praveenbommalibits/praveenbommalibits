@@ -1,30 +1,45 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar Bommali</h1>
-<h3 align="center">A passionate Lead developer/Software Architect from India</h3>
+# Praveen Kumar Bommali
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenbommalibits&label=Profile%20views&color=0e75b6&style=flat" alt="praveenbommalibits" /> </p>
+Founder building MedhaLink AI, with a hands-on focus on GenAI products, retrieval-augmented generation, backend platforms, and cloud-ready systems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenbommalibits" alt="praveenbommalibits" /></a> </p>
+I work across the full product stack: Python/FastAPI services, Java/Spring Boot systems, TypeScript/React interfaces, PostgreSQL, Redis, vector search, Docker, Kubernetes, and production API integrations.
 
-- 📫 How to reach me **praveenkumarbommali@gmail.com**
+## What I am building
 
-- 📄 Know about my experiences [https://resume.nxtjob.ai/share/a343f789-2e0d-49b8-82c6-1515bb786c65](https://resume.nxtjob.ai/share/a343f789-2e0d-49b8-82c6-1515bb786c65)
+**MedhaLink AI** is my current founder work: an enterprise knowledge AI platform for governed search, source-grounded answers, connector ingestion, reviewable AI actions, and workflow automation.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+The problems I care most about:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/praveenkumarbommali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenkumarbommali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/praveen-kumar-bommali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="praveen-kumar-bommali" height="30" width="40" /></a>
-<a href="https://medium.com/@praveenkumarbommali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@praveenkumarbommali" height="30" width="40" /></a>
-</p>
+- Making enterprise knowledge searchable across documents, email, and collaboration tools
+- Building RAG systems that preserve source context and user trust
+- Turning one-off AI answers into governed, auditable product workflows
+- Designing backend systems that are simple enough to run and strong enough to scale
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## Selected work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenbommalibits&show_icons=true&locale=en&layout=compact" alt="praveenbommalibits" /></p>
+- [Brand Asset Studio](https://github.com/praveenbommalibits/brand-studio-suite) - TypeScript interface for AI-assisted brand asset planning, approval, review, and packaging.
+- [Brand Asset Studio API](https://github.com/praveenbommalibits/brand-studio-suite-ba) - FastAPI backend with brief parsing, tool routing, asset generation orchestration, QA, and packaging.
+- [Medha MoM](https://github.com/praveenbommalibits/medha-mom) - Privacy-first local meeting assistant with local transcription, speaker identification, context-aware suggestions, and structured notes.
+- [MedhaWhisper](https://github.com/praveenbommalibits/medha-whisper) - Local macOS voice-to-text utility built around Whisper with hotkey capture and auto-typing.
+- [LLM Connector Service](https://github.com/praveenbommalibits/llm-connector) - Java 21 Spring Boot service for LLM query handling and RAG-style SAP field context retrieval.
+- [String Reply Service](https://github.com/praveenbommalibits/rest-service) - Spring Boot API exercise focused on backward-compatible endpoints, rule execution, validation, and testability.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbommalibits&show_icons=true&locale=en" alt="praveenbommalibits" /></p>
+## Core stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbommalibits&" alt="praveenbommalibits" /></p>
+**AI and data:** RAG, embeddings, vector search, LLM APIs, document ingestion, prompt orchestration, evaluation-minded product design  
+**Backend:** Python, FastAPI, Java, Spring Boot, SQLAlchemy, PostgreSQL, Redis, Celery, REST APIs  
+**Frontend:** TypeScript, React, Vite, TanStack, Tailwind CSS  
+**Cloud and delivery:** Docker, Kubernetes, Helm, GitHub Actions, GCP, Azure, observability, deployment automation  
+
+## Current focus
+
+- Shipping MedhaLink AI as a founder-led enterprise AI product
+- Building reliable connector ingestion and governed AI workflow experiences
+- Improving RAG quality, source attribution, review controls, and auditability
+- Turning prototype-grade AI ideas into usable product systems
+
+## Links
+
+- Website: [praveenkumarbommali.com](https://praveenkumarbommali.com)
+- LinkedIn: [linkedin.com/in/praveenkumarbommali](https://linkedin.com/in/praveenkumarbommali)
+- GitHub: [github.com/praveenbommalibits](https://github.com/praveenbommalibits)
