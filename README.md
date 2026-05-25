@@ -40,6 +40,6 @@ The problems I care most about:
 
 ## Links
 
-- Website: [praveenkumarbommali.com](https://praveenkumarbommali.com)
-- LinkedIn: [linkedin.com/in/praveenkumarbommali](https://linkedin.com/in/praveenkumarbommali)
-- GitHub: [github.com/praveenbommalibits](https://github.com/praveenbommalibits)
+- Website: https://praveenkumarbommali.com
+- LinkedIn: https://linkedin.com/in/praveenkumarbommali
+- GitHub: https://github.com/praveenbommalibits
